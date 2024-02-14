@@ -11,7 +11,7 @@ Summary(pl.UTF-8):	Parser SQL bez kontroli poprawności
 Name:		python-sqlparse
 # keep 0.3.x here for python2 support
 Version:	0.3.1
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sqlparse/
